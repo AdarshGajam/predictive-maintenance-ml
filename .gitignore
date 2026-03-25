@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+simulated_machine_data.csv
+__pycache__/
+*.pyc
